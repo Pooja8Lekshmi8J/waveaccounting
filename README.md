@@ -1,6 +1,31 @@
 ### Instructions on how to build/run your application
-1. **npm install**
-2. **npm start**
+To build and run this React application, you can typically follow these steps:
+
+1. **Install Node.js and npm (Node Package Manager)**:
+   Ensure that Node.js and npm are installed on your machine. You can download and install them from the official website: https://nodejs.org/
+
+2. **Navigate to the Project Directory**:
+   Open a terminal or command prompt and navigate to the directory where your React application is located.
+
+3. **Install Dependencies**:
+   Run the following command to install the project's dependencies (specified in `package.json`):
+
+   npm install
+
+4. **Build the Application**:
+   If your project requires a build step, run the build command. The build process creates an optimized production-ready version of the application.
+
+   npm run build
+   
+5. **Start the Development Server**:
+   If you want to run the application in development mode, run the start command:
+
+   npm start
+
+6. **Access the Application**:
+   Once the development server starts, you can access the application in a web browser at the specified URL (usually `http://localhost:3000`).
+
+By following these steps anyone can successfully run and access the web application.
 
 ### A paragraph or two about what you are particularly proud of in your implementation, and why?
 
