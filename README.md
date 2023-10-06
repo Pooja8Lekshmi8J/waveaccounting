@@ -13,7 +13,7 @@ To build and run this React application, you can typically follow these steps:
    npm install
 
 4. **Build the Application**:
-   If your project requires a build step, run the build command. The build process creates an optimized production-ready version of the application.
+   If the project requires a build step, run the build command. The build process creates an optimized production-ready version of the application.
 
    npm run build
    
